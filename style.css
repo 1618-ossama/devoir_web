@@ -12,6 +12,7 @@ body{
     max-width: 95%;
     margin: auto;
     position: relative;
+    overflow-x: hidden;
 }
 
 .bckground {
